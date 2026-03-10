@@ -5,3 +5,5 @@ date
 echo "Server Hostname:"
 hostname
 echo "===== Jenkins Build Completed ====="
+
+echo "Test build triggered"
